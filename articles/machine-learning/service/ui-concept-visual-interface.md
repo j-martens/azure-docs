@@ -1,5 +1,5 @@
 ---
-title: Visual interface
+title: Drag-n-drop pipelines interface
 titleSuffix: Azure Machine Learning service
 description: Learn about the terms, concepts, and workflow that make up the visual interface (preview) for Azure Machine Learning service.
 services: machine-learning
